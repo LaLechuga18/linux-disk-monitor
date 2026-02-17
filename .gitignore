@@ -1,0 +1,11 @@
+# logs generados automaticamente
+logs/
+
+# archivos de estado del monitor
+.disk_alert_state
+.last_state
+
+# temp
+*.log
+*.txt
+
