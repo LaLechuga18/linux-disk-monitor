@@ -1,4 +1,4 @@
-# 🖥️ linux-monitor
+# linux-monitor
 
 A lightweight Bash-based system health monitor for Linux and WSL environments.
 Tracks disk usage, triggers alerts when thresholds are exceeded, and automatically cleans up old logs.
@@ -18,7 +18,7 @@ linux-monitor/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Both scripts are fully portable. No hardcoded paths. All settings can be overridden via environment variables before running.
 
